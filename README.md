@@ -1,2 +1,5 @@
-# python_tkinter_how_to_create_a_digital_clock_in_python_tkinter_easy_version
-Python + Tkinter: Creating a Digital Clock in Python/Tkinter (Easy Version)
+# Python + Tkinter Application: How to create a Digital Clock in Python using Tkinter (Easy Version)
+## Python + Tkinter: Creating a Digital Clock in Python/Tkinter (Easy Version)
+
+Youtube link:
+https://youtu.be/b1wK69b2mnU
